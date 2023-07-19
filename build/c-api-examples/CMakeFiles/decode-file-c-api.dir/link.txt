@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/decode-file-c-api.dir/decode-file-c-api.c.o -o ../bin/decode-file-c-api  -Wl,-rpath,"\$ORIGIN:/home/vitcou/k2/sherpa-onnx/build/_deps/onnxruntime-src/lib" ../lib/libsherpa-onnx-c-api.a ../lib/libsherpa-onnx-core.a ../_deps/onnxruntime-src/lib/libonnxruntime.so ../lib/libkaldi-native-fbank-core.a 

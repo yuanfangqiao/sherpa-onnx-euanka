@@ -1,0 +1,3 @@
+/home/vitcou/k2/sherpa-onnx/build/_deps/portaudio-subbuild/CMakeFiles/portaudio-populate.dir
+/home/vitcou/k2/sherpa-onnx/build/_deps/portaudio-subbuild/CMakeFiles/edit_cache.dir
+/home/vitcou/k2/sherpa-onnx/build/_deps/portaudio-subbuild/CMakeFiles/rebuild_cache.dir
