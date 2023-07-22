@@ -1,3 +1,0 @@
-/home/vitcou/k2/sherpa-onnx/build/_deps/kaldi_native_fbank-subbuild/CMakeFiles/kaldi_native_fbank-populate.dir
-/home/vitcou/k2/sherpa-onnx/build/_deps/kaldi_native_fbank-subbuild/CMakeFiles/edit_cache.dir
-/home/vitcou/k2/sherpa-onnx/build/_deps/kaldi_native_fbank-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-repository='external project URL'
-module='https://github.com/csukuangfj/kaldi-native-fbank/archive/refs/tags/v1.13.tar.gz'
-tag='SHA256=1f4d228f9fe3e3e9f92a74a7eecd2489071a03982e4ba6d7c70fc5fa7444df57'
